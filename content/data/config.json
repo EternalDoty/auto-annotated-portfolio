@@ -77,7 +77,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "8 (902) 100-26-11",
+            "phoneNumber": "8 (902) ***-**-**",
             "phoneAltText": "My phone number",
             "email": "color4585@gmail.com",
             "emailAltText": "My email",
